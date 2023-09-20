@@ -12,3 +12,6 @@ print("Bienvenido aprendiz SENA, A continuacion te haremos unas preguntas con re
 opcion1 = int(input("Cuando aprendes algo nuevo, ¿prefieres que te presenten teorías o conceptos antes que ejemplos prácticos? \n 1.SI \n 2.NO \n")) 
 opcion2 = int(input("¿Te sientes más cómodo aprendiendo a través de la lectura de libros o materiales escritos? \n 1.SI \n 2.NO \n"))
 opcion3 = int(input("¿Te sientes más cómodo aprendiendo a través de la lectura de libros o materiales escritos? \n 1.SI \n 2.NO \n"))
+opcion4 = int(input("¿Te gusta analizar y reflexionar sobre las ideas y conceptos antes de ponerlos en práctica? \n 1.SI \n 2.NO \n"))
+opcion5 = int(input("¿Tienes tendencia a destacar en asignaturas que requieren comprensión de teorías y conceptos, como las matemáticas o la física? \n 1.SI \n 2.NO \n")) 
+

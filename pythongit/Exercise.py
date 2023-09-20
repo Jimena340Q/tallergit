@@ -14,4 +14,6 @@ opcion2 = int(input("¿Te sientes más cómodo aprendiendo a través de la lectu
 opcion3 = int(input("¿Te sientes más cómodo aprendiendo a través de la lectura de libros o materiales escritos? \n 1.SI \n 2.NO \n"))
 opcion4 = int(input("¿Te gusta analizar y reflexionar sobre las ideas y conceptos antes de ponerlos en práctica? \n 1.SI \n 2.NO \n"))
 opcion5 = int(input("¿Tienes tendencia a destacar en asignaturas que requieren comprensión de teorías y conceptos, como las matemáticas o la física? \n 1.SI \n 2.NO \n")) 
+opcion6 = int(input("¿Te sientes más cómodo en entornos de aprendizaje estructurados, como conferencias o clases magistrales? \n 1.SI \n 2.NO \n"))
+option7 = int(input("¿Prefieres aprender de manera independiente en lugar de trabajar en grupos o equipos? \n 1.SI \n 2.NO \n"))
 
